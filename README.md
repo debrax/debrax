@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @debrax
-- 👀 I’m interested in software craftsmanship and pragmatic programming
+- 👀 I’m interested in pragmatic programming and software craftsmanship
 - 🌱 I’m currently learning Remix and FastAPI for hobby projects, next to professional skills in .NET, SpringBoot and Angular
 - 💞️ I’m looking to collaborate on enterprise applications, as tech lead or senior developer
 - 📫 How to reach me: leonard.beck@gmail.com
